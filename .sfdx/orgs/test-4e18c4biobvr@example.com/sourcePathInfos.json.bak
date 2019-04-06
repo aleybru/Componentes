@@ -107,15 +107,15 @@
     [
         "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\pages\\pageCanonical.page",
         {
+            "state": "u",
             "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\pages\\pageCanonical.page",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 182,
             "modifiedTime": 1554575067292,
             "changeTime": 1554575067292,
-            "contentHash": "7533161a1a9e7dd931fc42b733647ea45bd1f287",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "7533161a1a9e7dd931fc42b733647ea45bd1f287"
         }
     ],
     [
@@ -200,11 +200,11 @@
             "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\components\\Canonical.component",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 293,
-            "modifiedTime": 1554575579633,
-            "changeTime": 1554575579633,
+            "size": 300,
+            "modifiedTime": 1554575307252,
+            "changeTime": 1554575307252,
             "isWorkspace": false,
-            "contentHash": "d94d1a5586e950ddeb7a58e68b7ba80a03d9b1cf"
+            "contentHash": "78c34f2f2da2e63b500bfe9a939950b7a6ea3064"
         }
     ],
     [
@@ -225,15 +225,15 @@
     [
         "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\classes\\CanonicalController.cls",
         {
-            "state": "u",
             "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\classes\\CanonicalController.cls",
             "isDirectory": false,
+            "size": 119,
+            "modifiedTime": 1554572857253,
+            "changeTime": 1554572857253,
+            "contentHash": "d89319d8457b12bff6bb97c86df80ad3506fa11e",
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1554575515732,
-            "changeTime": 1554575515732,
-            "isWorkspace": false,
-            "contentHash": "16d8a6419dc2100b33df6a331929911711186902"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
