@@ -1,0 +1,213 @@
+[
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554569555667,
+            "changeTime": 1554569555667,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554569555667,
+            "changeTime": 1554569555667,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554571171221,
+            "changeTime": 1554571171221,
+            "contentHash": "fbe501f7093f659169ec97c14ec00d1ff636dc90",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554569555679,
+            "changeTime": 1554569555679,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554569568461,
+            "changeTime": 1554569568461,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554569560431,
+            "changeTime": 1554569560431,
+            "contentHash": "b38e5474460f31664ccd2e48c2655e89a76a467c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\pages\\pageCanonical.page-meta.xml",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\pages\\pageCanonical.page-meta.xml",
+            "isDirectory": false,
+            "size": 288,
+            "modifiedTime": 1554570610708,
+            "changeTime": 1554570610708,
+            "contentHash": "43fdfeb7c8c6bfa3d7bb45cc6f3d6922137f2040",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\pages\\pageCanonical.page",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\pages\\pageCanonical.page",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1554570610711,
+            "changeTime": 1554570610711,
+            "contentHash": "1da39a8217ae203343495260ac27f79112281306",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554570610711,
+            "changeTime": 1554570610711,
+            "contentHash": "db5dd97a12bedf216b97112b0b3e42666736d8d8",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18699,
+            "modifiedTime": 1554571227224,
+            "changeTime": 1554571227224,
+            "contentHash": "3951f5f39afd8220bf1cb0f0d31c7f3ae86f2cf2"
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554571105131,
+            "changeTime": 1554571105131,
+            "contentHash": "11c1a4a28d7a8552228e8ebac3549c3f22c6348c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554571105203,
+            "changeTime": 1554571105203,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\components\\Canonical.component-meta.xml",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\components\\Canonical.component-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1554571171223,
+            "changeTime": 1554571171223,
+            "contentHash": "7bd4e05c63fed778d877dd94fcd842daf1162433",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\components\\Canonical.component",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\components\\Canonical.component",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1554571171249,
+            "changeTime": 1554571171249,
+            "contentHash": "3de525e246d9dbe4837fceb69fa3acb616a1a948",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\components",
+        {
+            "sourcePath": "F:\\componentes\\Componentes\\componentes\\force-app\\main\\default\\components",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554571171249,
+            "changeTime": 1554571171249,
+            "contentHash": "8228593e073905e296da8046e50cdd08cc53cb63",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
